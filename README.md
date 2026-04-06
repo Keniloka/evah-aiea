@@ -1,7 +1,7 @@
 # AI Epilepsy Assistant (AIEA)
 ## Clinical Decision Support Prototype
 
-This project is a dedicated prototype for the AI Epilepsy Assistant (AIEA), designed to empower Community Health Workers (CHWs) and Clinicians in rural and remote settings with WHO mhGAP-aligned management tools.
+This project is a dedicated prototype for the AI Epilepsy Assistant (AIEA), designed to empower Community Health Workers (CHWs) and Clinicians in rural and remote settings with WHO mhGAP-aligned management tools and the Kenyan Ministry of Health Epilepsy Guidelines.
 
 ### Core Features
 - **Guided Clinical Encounters**: Step-by-step assessment based on international epilepsy protocols.
